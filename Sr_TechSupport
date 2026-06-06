@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jayasree Narayana Sarma | Technical Support Analyst II Portfolio</title>
+</head>
+<body style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; color: #333;">
+
+    <h1 style="border-bottom: 2px solid #0056b3; padding-bottom: 5px; margin-bottom: 5px; color: #0056b3;">JAYASREE NARAYANA SARMA</h1>
+    <p style="font-weight: bold; margin-top: 0; color: #555;">Technical Support Analyst II / Senior Endpoint Analyst</p>
+    <p style="margin-top: 0;">Markham, ON | 437-233-1963 | Jayasree.sarma@yahoo.com | linkedin.com/in/jayasreesarma</p>
+
+    <h3 style="background: #f4f6f9; border-left: 4px solid #0056b3; padding: 5px 10px; margin-top: 20px; color: #0056b3;">PROFESSIONAL SUMMARY</h3>
+    <p>Detail-oriented technical support and Senior Endpoint Analyst with over 5 years of experience validating Windows endpoint solutions, operating systems, and hardware configurations within enterprise environments, including premier banking frameworks. Proven track record executing structured test cases in dedicated lab environments to verify drivers, firmware, and functional scripts before enterprise-scale deployment. Expert in utilizing PowerShell scripting to automate testing, performing root cause analysis on system variances, and collaborating with endpoint engineers to deliver consistent, high-quality production builds.</p>
+
+    <h3 style="background: #f4f6f9; border-left: 4px solid #0056b3; padding: 5px 10px; margin-top: 20px; color: #0056b3;">SKILLS MATRIX</h3>
+    <ul>
+        <li><strong>Operating Systems (OS):</strong> Microsoft Windows 10, Microsoft Windows 11.</li>
+        <li><strong>Test Environments & Hardware:</strong> Computer Hardware, Peripherals, Infrastructure Management, Virtualization (Hyper-V, Azure).</li>
+        <li><strong>Scripting & Automation:</strong> PowerShell, Automation Tools.</li>
+        <li><strong>Systems Analysis & Troubleshooting:</strong> Analytical Thinking, Detail-Oriented, Troubleshooting, Root Cause Analysis (RCA).</li>
+        <li><strong>Communication & Documentation:</strong> Technical Support Documentation, Cross-Functional Collaboration.</li>
+    </ul>
+
+    <h3 style="background: #f4f6f9; border-left: 4px solid #0056b3; padding: 5px 10px; margin-top: 20px; color: #0056b3;">CORE EXPERTISE</h3>
+    
+    <p style="font-weight: bold; margin-bottom: 5px; color: #0056b3;">1. Lab Validation & Support</p>
+    <ul>
+        <li><strong>Windows & Hardware Validation:</strong> Handled hands-on workstation, laptop, and virtual desktop build environments to validate operating systems and hardware configurations.</li>
+        <li><strong>Upgrades & Infrastructure Checks:</strong> Assisted with infrastructure checks, verifying operating system updates, software installations, and configuration changes before rollout.</li>
+        <li><strong>Engineering Partnership:</strong> Partnered closely with infrastructure and engineering teams to map system walkthroughs, review technical integrations, and manage environment design documentation.</li>
+    </ul>
+
+    <p style="font-weight: bold; margin-bottom: 5px; color: #0056b3;">2. Accuracy & Quality (Test Case Execution)</p>
+    <ul>
+        <li><strong>Structured Test Cases:</strong> Prepared, executed, and documented structured test cases and results to support successful validation.</li>
+        <li><strong>Quality Standards:</strong> Verified packaged applications and configurations for strict compliance with technical standards and functionality before submitting them to production.</li>
+    </ul>
+
+    <p style="font-weight: bold; margin-bottom: 5px; color: #0056b3;">3. Analytical Thinking (Troubleshooting & RCA)</p>
+    <ul>
+        <li><strong>Root Cause Analysis:</strong> Identified system defects, anomalies, and application-level variances, performing root cause analysis (RCA) to prevent repeat issues at scale.</li>
+        <li><strong>Troubleshooting Process:</strong> Articulated clear troubleshooting approaches for system, access, and authentication issues across remote and local distributed teams.</li>
+        <li><strong>UAT & Assessment:</strong> Followed User Acceptance Testing (UAT) results, analyzed failure scenarios, and provided remediation recommendations to technical partners.</li>
+    </ul>
+
+    <p style="font-weight: bold; margin-bottom: 5px; color: #0056b3;">4. Consistency (Lab to Production Alignment)</p>
+    <ul>
+        <li><strong>Repeatable Results:</strong> Validated hardware builds and software packages in sandbox, lab, and Proof of Concept (POC) environments designed to match production standards.</li>
+        <li><strong>Asset Allocation:</strong> Managed asset allocation and equipment tracking to ensure predictable testing baselines across hardware lifecycles.</li>
+    </ul>
+
+    <p style="font-weight: bold; margin-bottom: 5px; color: #0056b3;">5. Continuous Learning & Documentation</p>
+    <ul>
+        <li><strong>Knowledge Management:</strong> Authored clear technical specifications, troubleshooting guides, and L0 knowledge base articles to share technical concepts and operational insights.</li>
+        <li><strong>Process Improvement:</strong> Contributed actively to ongoing support process standardization and system enhancement initiatives based on test learnings.</li>
+    </ul>
+
+    <h3 style="background: #f4f6f9; border-left: 4px solid #0056b3; padding: 5px 10px; margin-top: 20px; color: #0056b3;">PROFESSIONAL EXPERIENCE</h3>
+
+    <p><strong>MIT Consulting</strong> | Toronto, ON<br>
+    <em>Technical Support / Admin</em> | Jan 2026 – May 2026</p>
+    <ul>
+        <li>Provided day-to-day technical operations and systems support for laptops, employee workstations, and hybrid environments.</li>
+        <li>Supported multiple clients across diverse industries like Heschel School, Zebrano, Carmel, CITT, Seenergy Foods, Goddard and many within an MSP environment, delivering system administration and technical operations support. Supported cloud and hybrid infrastructure, including Azure AD and on prem environments.</li>
+        <li>Administer Active Directory, Entra ID, and Microsoft 365 environments, including user provisioning, group management, and access control.</li>
+        <li>Provided application, infrastructure, and production support across hybrid environments, ensuring stability of business-critical systems.</li>
+        <li>Handle user account setup and access permissions in Active Directory and Entra ID, including group assignments, MFA setup, and login/access issues.</li>
+        <li>Work closely with security and compliance teams to ensure proper access controls, group permissions following internal policies and standard procedures.</li>
+        <li>Support client/employee onboarding and offboarding, including preparing devices, configuring accounts, and removing access in a timely and secure manner maintaining SLA.</li>
+        <li>Maintain and track IT equipment and software assets, including laptops, peripherals, and licenses, ensuring proper allocation and lifecycle tracking.</li>
+        <li>Coordinate with vendors and internal teams to resolve hardware/software issues and support procurement or replacements when needed.</li>
+        <li>Perform incident triage, troubleshooting, and resolution for system, access, and application issues, ensuring SLA compliance.</li>
+        <li>Utilized PowerShell scripting to automate operational support workflows, troubleshoot functional issues, and streamline processes.</li>
+        <li>Identified recurring hardware and application issues, contributing to root cause analysis to improve system stability.</li>
+        <li>Created and updated clear, simple L0 documentation and troubleshooting guides to help technical teams resolve common issues.</li>
+        <li>Provide friendly, clear communication to end users, explaining technical issues in a way that is easy to understand.</li>
+    </ul>
+
+    <p><strong>CGI (Ottawa)</strong> | Ottawa, ON<br>
+    <em>Senior Support Consultant</em> | Sept 2022 – Apr 2023</p>
+    <ul>
+        <li>Delivered technical support for cloud and on-premises configurations across a premier banking environment (CIBC) and corporate frameworks.</li>
+        <li>Supported laboratory, sandbox, and POC environments to test configurations, validate operating system updates, and verify integration activities.</li>
+        <li>Conducted walkthrough reviews of technical specifications, testing changes inside isolated sandboxes prior to production rollout.</li>
+        <li>Managed technical queues within ServiceNow, prioritizing incidents and escalating unresolved platform defects while assisting with RCA.</li>
+    </ul>
+
+    <p><strong>Compucom</strong> | Toronto, ON<br>
+    <em>Technical Support LII</em> | Jul 2016 – Sept 2022</p>
+    <ul>
+        <li>IT service management across regions in the United States & Canada.</li>
+        <li>Performed Active Directory administration, access provisioning, and security role assignments across enterprise environments.</li>
+        <li>Supported Windows, Citrix, VPN, Exchange Online environments, troubleshooting system, network (TCP/IP), and authentication issues.</li>
+        <li>Assisted in virtual machine provisioning, configuration, and management within virtualized environments.</li>
+        <li>Supported Office 365 migrations, Citrix environments, and Exchange Online administration.</li>
+        <li>Created audit‑compliant documentation, KB articles, and operational reports.</li>
+        <li>Achieved 95%+ first‑call resolution and consistently met SLA targets.</li>
+        <li>Promoted to Mergers & Acquisitions support. Managed incident escalation. Recognized trends and reoccurring problems; assisted Golive projects during MnA support, Onboarding/offboarding.</li>
+        <li>Collaborated with infrastructure teams to support virtual lab environments and system integration activities. Managed onboarding/offboarding, MFA, RSA tokens, and access lifecycle processes.</li>
+        <li>Accurate and detailed problem documentation by raising tickets using Remedy/Servicenow.</li>
+        <li>Flagging KB articles and submission of new KB articles. Actively participate in the creation and review of the knowledge base articles; review customer-facing technical documents and communication (L0 articles)/newsletters/notices.</li>
+        <li>Excellent Verbal & written communication and interpersonal skills with the ability to listen effectively respond appropriately and maintained mutual comfort level while relating to a diverse group of individuals. Ability to provide quick recommendations toward resolution.</li>
+    </ul>
+
+    <p><strong>RBC Capital Markets</strong> | Toronto, ON<br>
+    <em>Systems Analyst / Build / Deployment Engineer</em> | Mar 2015 – Jun 2015</p>
+    <ul>
+        <li>Provided technical support for virtual desktop (VDI) and workstation build environments, analyzing hardware requirements to prepare application lists.</li>
+        <li>Performed internal testing on packaged applications for standards and functionality before submitting results to the testing team.</li>
+        <li>Supported each business unit through User Acceptance Testing (UAT) cycles up to final sign-off, monitoring deployment deadlines.</li>
+    </ul>
+
+    <h3 style="background: #f4f6f9; border-left: 4px solid #0056b3; padding: 5px 10px; margin-top: 20px; color: #0056b3;">EDUCATION & CERTIFICATIONS</h3>
+    <ul>
+        <li><strong>CompTIA SecurityX / CASP+ Certification</strong> | <em>Issued: Aug 2025</em></li>
+        <li><strong>Diploma in IT Professional (Cloud & Cyber Security)</strong> | <em>Trios College, Jan 2026</em></li>
+        <li><strong>Diploma in Network Administration</strong> | <em>Trios College, Sept 2014</em></li>
+        <li><strong>Bachelor of Technology (B.Tech), GNIIT</strong> | <em>Systems Management</em></li>
+        <li><strong>CompTIA A+</strong></li>
+    </ul>
+
+    <h3 style="background: #f4f6f9; border-left: 4px solid #0056b3; padding: 5px 10px; margin-top: 20px; color: #0056b3;">LANGUAGES</h3>
+    <p style="padding-left: 10px;">English, Hindi, Tamil, Malayalam</p>
+
+</body>
+</html>
